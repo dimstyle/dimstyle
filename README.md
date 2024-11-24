@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Smilebruh
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Computer science
 - 💞️ I’m looking to collaborate on null
 - 📫 How to reach me null
 - 😄 Pronouns: null
