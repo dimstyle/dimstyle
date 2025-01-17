@@ -19,3 +19,5 @@ I'm currently studying Machine Learning and Web Development.
 [![](https://visitcount.itsvg.in/api?id=Smilebruh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/Smilebruh/Smilebruh/blob/output/github-snake-dark.svg)
