@@ -24,6 +24,6 @@ I'm currently studying Machine Learning and Web Development.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31l7mav3yuxidugktydzxp4lp7xq&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31l7mav3yuxidugktydzxp4lp7xq&width={width})
 
 ![snake gif](https://github.com/Smilebruh/Smilebruh/blob/output/github-snake-dark.svg)
