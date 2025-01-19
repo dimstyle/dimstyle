@@ -1,7 +1,7 @@
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Smilebruh+;" />
 </h1>
-<h1 align="center">
+<h1 align="left">
         <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
 </h1>
 <br/>
