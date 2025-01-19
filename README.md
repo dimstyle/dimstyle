@@ -19,7 +19,7 @@ I'm currently studying Machine Learning and Web Development.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-# 🎶 Songs:
+### 🎶 Songs:
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31l7mav3yuxidugktydzxp4lp7xq&unique={true|1|on|yes})
 
 ---
