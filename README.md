@@ -28,5 +28,3 @@ I'm currently studying Machine Learning and Web Development.
 ![snake gif](https://github.com/Smilebruh/Smilebruh/blob/output/github-snake-dark.svg)
 
 <img src="https://raw.githubusercontent.com/Smilebruh/Smilebruh/output/snake.svg" alt="Snake animation" />
-
-###
