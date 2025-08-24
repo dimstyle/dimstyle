@@ -21,9 +21,9 @@ Hi, you can call me Alex, I'm a passionate software engineering student to explo
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Smilebruh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=smilebruh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=dimstyle&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=smilebruh&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dimstyle&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -32,6 +32,6 @@ Hi, you can call me Alex, I'm a passionate software engineering student to explo
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31l7mav3yuxidugktydzxp4lp7xq&unique={true|1|on|yes})
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Smilebruh&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dimstyle&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/Smilebruh/Smilebruh/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/dimstyle/Smilebruh/blob/output/github-snake-dark.svg)
