@@ -7,7 +7,7 @@
 <br/>
 
 # 💫 About Me:
-Hi, you can call me Dimas, I'm a software engineering student at SMK Letris Indonesia 2. I have a strong interest in AI, Web Dev, and Pentesting. I also a Linux enthusiast, I loved to exploring and trying different distros. Outside of tech hobbies, I also loved to watching rom-com anime. Glad to meet you :D
+Hi, you can call me Dimas, I'm a software engineering student at SMK Letris Indonesia 2. I have a strong interest in CyberSec , AI/ML , and Web Dev. I also a Linux enthusiast, I loved to exploring and trying different distros. Outside of tech hobbies, I also loved to watching rom-com anime. Glad to meet you :D
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dimasalx.sa_) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29076795) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dimasalexander27@gmail.com)
