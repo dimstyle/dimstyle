@@ -1,17 +1,20 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Dimas+🙂;" />
-</h1>
-<h1 align="center">
-        <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
-</h1>
+<p align="center">
+        <img src="https://media1.tenor.com/m/R8wjCxS2MCgAAAAC/oreki-black-and-white-wind.gif">
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=%24+whoami;dimstyle+-+software+engineer;%24+cat+skills.txt;Linux+%7C+Python+%7C+Typescript+%7C+Rust;%24+echo+%22Welcome+to+my+GitHub%22"
+    alt="Typing SVG"
+  />
+</p>
 <br/>
 
 # 💫 About Me:
-Hi, you can call me Dimas, I'm a software engineering student at SMK Letris Indonesia 2. I have an interest in Infrastructure and Programming. I'm a Linux enthusiast, I like to explore and try different Linux distros. I also like to watch rom-com anime and listening to music.
+I'm a software engineering student at SMK Letris Indonesia 2. I have an interest in Infrastructure and Programming. I'm a Linux enthusiast, I like to explore and try different Linux distros. I also like to watch rom-com anime and listening to music.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dimasalx.sa_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dimasalexander27@gmail.com)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dimasalx.sa_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dimasalexander27@gmail.com) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dimstyle)
 
 # 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-DD4814?style=for-the-badge&logo=ubuntu&logoColor=white) ![Qemu](https://img.shields.io/badge/QEMU-0091EA?style=for-the-badge&logo=qemu&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
