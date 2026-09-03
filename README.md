@@ -28,9 +28,6 @@ I'm a software engineering student at SMK Letris Indonesia 2. I have an interest
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
-## 🎶 Songs:
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31l7mav3yuxidugktydzxp4lp7xq&unique={true|1|on|yes})
-
 ---
 [![](https://visitcount.itsvg.in/api?id=dimstyle&icon=0&color=0)](https://visitcount.itsvg.in)
 
